@@ -12,4 +12,12 @@
 </body>                                                                                                                                   
 </html>
 
-
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: red;
+}
+p {
+  color: blue;
+}
